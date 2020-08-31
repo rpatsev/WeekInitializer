@@ -1,0 +1,13 @@
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\bin\Debug\netcoreapp3.1\sandboxapp.exe
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\bin\Debug\netcoreapp3.1\sandboxapp.deps.json
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\bin\Debug\netcoreapp3.1\sandboxapp.runtimeconfig.json
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\bin\Debug\netcoreapp3.1\sandboxapp.runtimeconfig.dev.json
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\bin\Debug\netcoreapp3.1\sandboxapp.dll
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\bin\Debug\netcoreapp3.1\sandboxapp.pdb
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\obj\Debug\netcoreapp3.1\sandboxapp.csprojAssemblyReference.cache
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\obj\Debug\netcoreapp3.1\sandboxapp.AssemblyInfoInputs.cache
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\obj\Debug\netcoreapp3.1\sandboxapp.AssemblyInfo.cs
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\obj\Debug\netcoreapp3.1\sandboxapp.csproj.CoreCompileInputs.cache
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\obj\Debug\netcoreapp3.1\sandboxapp.dll
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\obj\Debug\netcoreapp3.1\sandboxapp.pdb
+C:\Users\zaiko\source\repos\sandboxapp\sandboxapp\obj\Debug\netcoreapp3.1\sandboxapp.genruntimeconfig.cache
